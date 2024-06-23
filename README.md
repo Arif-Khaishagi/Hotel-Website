@@ -2,6 +2,7 @@
 # Hotel-Website
 
 ![](screenshot/Screenshot from 2024-06-23 14-50-00.png)
+![image](screenshot/Screenshot from 2024-06-23 14-50-00.png)
 
 ![](screenshot/Screenshot from 2024-06-23 14-50-22.png)
 
